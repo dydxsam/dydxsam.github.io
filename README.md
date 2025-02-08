@@ -9,6 +9,7 @@
 
 ## Projects - SQL 
 ### SQL Database for Children's Clothing Business
+[Click Here](https://drive.google.com/file/d/102cyGHhGXm0sfVJwIBOj6pHmz4GVxULR/view?usp=drive_link)
 -Objective: design and development of a RDBMS for a small clothing business, addressing data organization, decision-making, and sales analysis.
 
 ### Customer Segmentation Analysis | IP 
