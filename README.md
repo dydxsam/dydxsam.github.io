@@ -14,7 +14,7 @@
 -Objective: design and development of a RDBMS for a small clothing business, addressing data organization, decision-making, and sales analysis.
 
 ### Can Logistic Regression Classifier Predict Churn?
-[Project Link](file:///Users/samuelmontes/Desktop/LogisticNotebook.html)
+[Project Link](https://drive.google.com/file/d/1VwN3gAa4rqanWnYDecEDYz2-XPXWn15h/view?usp=drive_link)
 
 -Objective: Build a logistic regression classification model to predict customer churn probabilites for a banking company. 
 
